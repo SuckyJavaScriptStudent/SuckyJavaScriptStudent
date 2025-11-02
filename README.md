@@ -1,6 +1,4 @@
-- 👋 Hi, I’m @SuckyJavaScriptStudent
-- 👀 I’m interested in Solving Rubiks Cubes
-- 💞️ I’m looking to collaborate on anything
+I’m interested in Solving Rubiks Cubes and satellite engineering, in that order.
 
 <!---
 SuckyJavaScriptStudent/SuckyJavaScriptStudent is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
