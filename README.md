@@ -1,4 +1,4 @@
-I’m interested in Solving Rubiks Cubes and satellite engineering, in that order.
+I’m interested in solving Rubiks Cubes and satellite engineering, in that order.
 
 <!---
 SuckyJavaScriptStudent/SuckyJavaScriptStudent is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
